@@ -5,7 +5,7 @@ export default {
   title: 'CloneMe',
   component: CloneMe,
   args: {
-    footerHtml: '<p><a href="#">teste footer</a></p>',
+    footerHtml: 'Testando',
   },
 } as Meta;
 
